@@ -1,0 +1,44 @@
+.entradas {
+    text-align: center;
+}
+
+.entradas h3 {
+    color: black;
+    margin-bottom: 0;
+    background-color: #00a8de;
+}
+
+.entradas input {
+    margin-top: 20px;
+    padding: 5px;
+    border-radius: 100px;
+    text-align: center;
+}
+
+.entradas button {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    padding: 5px;
+    width: 200px;
+    border-radius: 100px;
+    background-color: #00a8de;
+    
+}
+
+.entradas table {
+    margin: auto;
+    width: 400px;
+    margin-top: 15px;
+    background-color: #00a8de;
+    border-color: black;
+    border-style: solid;
+}
+
+.entradas table th {
+    margin: 20px;
+    border-color: black;
+}
+
+.entradas table tr {
+    margin: 20px;
+}

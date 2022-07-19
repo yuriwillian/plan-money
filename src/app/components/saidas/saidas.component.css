@@ -1,0 +1,45 @@
+.saidas {
+    text-align: center;
+}
+
+.saidas h3 {
+    color: black;
+    margin-top: 50px;
+    margin-bottom: 0;
+    background-color: red;
+}
+
+.saidas input {
+    margin-top: 20px;
+    padding: 5px;
+    border-radius: 100px;
+    text-align: center;
+}
+
+.saidas button {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    padding: 5px;
+    width: 200px;
+    border-radius: 100px;
+    background-color: red;
+    
+}
+
+.saidas table {
+    margin: auto;
+    width: 400px;
+    margin-top: 15px;
+    background-color: red;
+    border-color: black;
+    border-style: solid;
+}
+
+.saidas table th {
+    margin: 20px;
+    border-color: black;
+}
+
+.saidas table tr {
+    margin: 20px;
+}
